@@ -1,0 +1,57 @@
+*{
+  margin:0;
+  padding: 0;
+}
+body{
+
+  background-color: #ffffff;
+}
+  nav{
+    position:static;
+    width: 100%;
+    background-color: #18171c ;
+    color: #fff;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    justify-content: space-between;
+    padding: 5px;
+    text-decoration: none;
+  }
+  Link{
+    text-decoration: none;
+  }
+  .links{
+    display: flex;
+    flex-direction:row;
+    padding:30px;
+    justify-content: space-between;
+  }
+  .links a{
+    color: #fff;
+    text-decoration: none;
+  }
+/* caractristicas a la imagenes en general */
+img {
+  width: 300px;
+  height: 200px;
+  text-align: center;
+  justify-content: center;
+}
+.Producto{
+  border-radius: 5px;
+    border: 1px solid #dbd1d1;
+}
+.cart{
+  margin-top: 200px;
+  text-align: center;
+}
+.cart h2{
+  padding: 40px;
+  font-size: 35px;
+}
+.carts p{
+font-size: 20px;
+padding: 30px;
+}

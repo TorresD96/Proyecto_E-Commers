@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "productName": "Audifonos Gamers",
+      "price":90000,
+      "productImage": "../public/Product1.jpg"
+    },
+    {
+        "id": 2,
+      "productName": "Teclado Gamers",
+      "price": 120000,
+      "productImage":"../public/product2.jpg"
+    },
+    {
+        "id": 3,
+      "productName": "Mouse Gamers",
+      "price": 45000,
+      "productImage":"../public/product3.jpg"
+    },
+    {
+        "id": 4,
+    "productName": "Monitor 4k, 6200HZ 40'",
+    "price": 350000,
+    "productImage": "../public/product4.jpg"
+    },
+    {
+        "id": 5,
+      "productName": "Tarjeta Nvidia Geforce 3600GTX",
+      "price": 1300000,
+      "productImage": "product5"
+    },
+    {
+        "id": 6,
+    "productName": "Pad Mouse",
+    "price": 35000,
+     "productImage":" product6"
+    }
+
+]
